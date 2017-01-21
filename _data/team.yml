@@ -1,60 +1,76 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Marie-Jo"
+  surname: "Huguet"
+  title: "INSA Toulouse"
+  thumbnailUrl: people-0.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+#    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+#    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+#    - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "site", link: "https://homepages.laas.fr/huguet/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Xavier"
+  surname: "Lorca"
+  title: "IMT Atlantique"
+  thumbnailUrl: people-1.png
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+#    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+#    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "site", link: "http://web.emn.fr/x-info/xlorca/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Arnaud"
+  surname: "Malapert"
+  title: "Université Côte d'Azur, CNRS, I3S"  
+  thumbnailUrl: people-2.jpg
+  team: true
+  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/arnaud-m"}
+    - {name: "site", link: "http://www.i3s.unice.fr/~malapert/"}
+- 
+  id: 3
+  name: "Jean-Charles"
+  surname: "Régin"
+  title: "Université Côte d'Azur, CNRS, I3S"
+  thumbnailUrl: people-3.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+#    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+#    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "http://www.constraint-programming.com/people/regin/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Corinne"
+  surname: "Julien-Haddad"
+  title: "in charge of symposiums at the I3S"
+  thumbnailUrl: people-4.png
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+  id: 5
+  name: "Guillaume"
+  surname: "Perez"
+  title: "Université Côte d'Azur, CNRS, I3S"
+  thumbnailUrl: people-5.png
   subTeam: true
+#  ribbon: 
+#    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+#    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+#    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+#    - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "site", link: "http://www.i3s.unice.fr/~gperez/"}
+

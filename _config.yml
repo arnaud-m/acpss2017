@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Joint ACP and GdR RO Summer School 2017"
+title: "ACPSS 2017"
 email: "acpss@i3s.unice.fr"
 description: "The ACP summer school is held annually all around the world"
 baseurl: "/acpss2017"
@@ -68,16 +68,16 @@ aboutTitle: "About the summer school"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest CP & OR summer school in the country carefully crafted for you by ACP and GdR RO communities! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Days of workshops, hands-on experience, hacking and debugging. Come and tame your favourite constraint technology!" }
- - {title: "Competition", image: "hackathon.jpg", text: "minicp competition! Want some real team building and problem solving? Grab your team and join our competition!" }
- - {title: "Beautiful spots", image: "porquerolles.jpg", text: "Porquerolles is a small island in the Iles d'Hyères, Côte d'Azur, France. The south coast is lined with cliffs, and on the north coast are the port and the beaches. Much of the island is now part of the Port-Cros national park." }
+ - {title: "Competition", image: "minicp.png", text: "minicp competition! Want some real team building and problem solving? Grab your team and join our competition!" }
+ - {title: "Beautiful spots", image: "porquerolles.jpg", text: "Porquerolles is a small island in the Iles d'Hyères, Côte d'Azur, France. The south coast is lined with cliffs, and on the north coast are the port and the beaches. Much of the island is now part of the Port-Cros national park."}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "20", specialCharacter: "+", info: "hours", detail: "of pure constraint technologies"}
+ - {count: "30", specialCharacter: "+", info: "hours", detail: "of pure constraint technologies"}
  - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
-# - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "2", specialCharacter: "", info: "social event", detail: "plus extended lunch breaks"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -85,12 +85,12 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Igesa Center of Porquerolles"
+eventLocationName: "Igesa School Center of Porquerolles"
 eventLocationLink: "https://goo.gl/maps/NFdms9EhqiJ2"
 eventStreetAddress: "? ?"
 eventAddressLocality: "Île de Porquerolles"
@@ -132,45 +132,62 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is included in the ticket price."
+ticketsInfo: "Registration is now open at UCC Conferencing.  Accommodation is included in the registration cost. The registration cost includes teaching materials, lunches and coffee breaks, and organized social events."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  price: "?"
+  priceCurrency: "EUR"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  validFrom: "2017-03-01T10:00"
+  validThrough: "2017-09-14T23:59"
+  disabled: true  
+#  soldOut: true
+#  soldOutText: "Sold Out"
+ -
+  name: "CNRS Student/Employee"
+  price: "0"
+  priceCurrency: "EUR"
+  ticketsNumber: "10"
+  ribbon: "Free Registration!"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires ?. "
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2017-03-01T10:00"
+  validThrough: "2017-09-14T23:59"
+  disabled: true  
+#  soldOut: true
+#  soldOutText: "Sold Out"  
+ -
+  name: "Early Bird"
+  price: "?"
+  priceCurrency: "EUR"
+  ticketsNumber: "60"
+#  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2017-03-01T10:00"
+  validThrough: "2017-09-04T23:59"
+  disabled: true  
+ -
+  name: "Last Chance"
+  price: "?"
+  priceCurrency: "EUR"
+  ticketsNumber: "100"
+  ribbon: "-20%"
+  featured: true
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2017-09-05T00:00"
+  validThrough: "2017-09-14T23:59"
+  disabled: true
 
 # Footer
 socialLinks:
