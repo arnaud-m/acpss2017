@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: ""
+c4sponsorsUrl: "/partnership/"
 
 
 # Navigation
@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Constraint Programming", "Operational Research", "Porqu
 typeoutFallback: "Constraint Programming"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {permalink: "/#partners", text: "Become a sponsor"}
+ - {permalink: "/partnership/", text: "Become a sponsor"}
 # About Block
 aboutTitle: "About the summer school"
 aboutBlock:
@@ -70,7 +70,7 @@ aboutBlock:
 # http://sdymchenko.com/blog/2015/03/13/electrifying-eclipse/ 
  - {title: "Workshops", image: "electrifying.gif", text: "Days of workshops, hands-on experience, hacking and debugging. Come and tame your favourite constraint technology!" }
  - {title: "Competition", image: "minicp.png", text: "minicp competition! Want some real team building and problem solving? Grab your team and join our competition!" }
- - {title: "Beautiful spots", image: "porquerolles.jpg", text: "Porquerolles is a small island in the Iles d'Hyères, Côte d'Azur, France. The south coast is lined with cliffs, and on the north coast are the port and the beaches. Much of the island is now part of the Port-Cros national park."}
+ - {title: "1 Place to Go", image: "porquerolles.jpg", text: "Porquerolles is a small island in the Iles d'Hyères, Var, France. It is one of the <a href=\"https://www.nytimes.com/interactive/2017/travel/places-to-visit.html\">52 Places to Go in 2017</a> of the NY Times. The south coast is lined with cliffs, and on the north coast are the port and the beaches. Much of the island is now part of the Port-Cros national park."}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -91,9 +91,9 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Igesa School Center of Porquerolles"
+eventLocationName: "Igesa School Center"
 eventLocationLink: "https://goo.gl/maps/NFdms9EhqiJ2"
-eventStreetAddress: "? ?"
+eventStreetAddress: "Rue de la Douane"
 eventAddressLocality: "Île de Porquerolles"
 eventAddressLocalityRegion: "Var"
 eventPostalCode: "83400"
@@ -106,19 +106,20 @@ mapCenterCoordinates: "43.000914, 6.204544"
 mapMobileCenterCoordinates: "42.000914, 5.204544"
 
 # Venue Block
+# https://www.igesa.fr/vos-vacances/recherche-sejour/reserver-mes-vacances/etablissement/porquerolles/
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Igesa Center of Porquerolles"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Igesa School Center"
+venueFeatures: ["in the heart of the Port Cros national Park"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -127,8 +128,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeTitle: "Subscribe for updates (soon available)"
+subscribeAction: ""
 subscribeInfo: "Registration will be open around beginning of March. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
@@ -140,7 +141,7 @@ ticketsOffers:
   price: "?"
   priceCurrency: "EUR"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: ""
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -155,9 +156,9 @@ ticketsOffers:
   priceCurrency: "EUR"
   ticketsNumber: "10"
   ribbon: "Free Registration!"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: ""
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires ?. "
+  additionalInfo: "The school has been awarded the \"École Thématique\" label of the CNRS."
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-01T10:00"
   validThrough: "2017-09-14T23:59"
@@ -170,7 +171,7 @@ ticketsOffers:
   priceCurrency: "EUR"
   ticketsNumber: "60"
 #  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: ""
   buyButtonText: "Buy Now"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-01T10:00"
@@ -183,7 +184,7 @@ ticketsOffers:
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: ""
   buyButtonText: "Buy Now"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-09-05T00:00"
