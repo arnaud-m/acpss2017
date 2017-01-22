@@ -8,7 +8,7 @@ isStaticPost: false
 
 Our team is putting together the parts of a constraint programming and operational research related school in France - [Joint ACP and GdR RO Summer School 2017](https://arnaud-m.github.io/acpss2017/). 
 
-This year event will take place on Porquerolles Island, Var, France - one of the [https://www.nytimes.com/interactive/2017/travel/places-to-visit.html](52 Places to Go in 2017) of the NY Times.
+This year event will take place on Porquerolles Island, Var, France - one of the [52 Places to Go in 2017](https://www.nytimes.com/interactive/2017/travel/places-to-visit.html) of the NY Times.
 
 So should you also be excited? Well yes... and here's why!
 
