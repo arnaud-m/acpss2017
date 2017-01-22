@@ -66,8 +66,9 @@ heroButtons:
 # About Block
 aboutTitle: "About the summer school"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest CP & OR summer school in the country carefully crafted for you by ACP and GdR RO communities! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Days of workshops, hands-on experience, hacking and debugging. Come and tame your favourite constraint technology!" }
+ - {title: "Conference", image: "OR.jpg", text: "The biggest Constraint Programming & Operational Research school in the country carefully crafted for you by ACP and GdR RO communities! Awesome speakers and lots of fun!" }
+# http://sdymchenko.com/blog/2015/03/13/electrifying-eclipse/ 
+ - {title: "Workshops", image: "electrifying.gif", text: "Days of workshops, hands-on experience, hacking and debugging. Come and tame your favourite constraint technology!" }
  - {title: "Competition", image: "minicp.png", text: "minicp competition! Want some real team building and problem solving? Grab your team and join our competition!" }
  - {title: "Beautiful spots", image: "porquerolles.jpg", text: "Porquerolles is a small island in the Iles d'Hyères, Côte d'Azur, France. The south coast is lined with cliffs, and on the north coast are the port and the beaches. Much of the island is now part of the Port-Cros national park."}
 
@@ -128,7 +129,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around beginning of March. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -238,45 +239,39 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Porquerolles"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Come with us", information: "Our preferred way: reach the beautiful city of Nice, and let us take care of the transfer to Porquerolles (bus + ferry). Nice Côte d\'Azur Airport is an international airport with excellent traffic connections, and, of course, there is a train station."}
+ - {title: "Come by your own", information: 'Reach the ferry terminal La Tour Fondue and then cross the sea. It is a good trip, but easier to prepare for locals. More information will be available on the blog.'}
+ - {title: "Living on an island", information: 'Porquerolles is beautiful and welcoming, but it is a small island: be prepared if you have specific needs. Ask to the organizer or contact the <a href=http://www.porquerolles.com/>Porquerolles tourist office</a>.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
    -
-    title: "Hotels"
+    title: "Airports"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.nice.aeroport.fr/", text: "www.nice.aeroport.fr"}
+     - {link: "http://www.toulon-hyeres.aeroport.fr/", text: "www.toulon-hyeres.aeroport.fr"}
+     - {link: "http://www.marseille-airport.com/", text: "www.marseille-airport.com"}
    -
-    title: "Registration"
+    title: "Others"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.voyages-sncf.com/", text: "www.voyages-sncf.com (train)"}
+     - {link: "http://www.tlv-tvm.com/", text: "Ferries TLV TVM"}
    -
-    title: "Attendance Details"
+    title: "Porquerolles"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-
+     - {link: "http://www.porquerolles.com/", text: "www.porquerolles.com"}
+     - {link: "http://www.portcrosparcnational.fr", text: "www.portcrosparcnational.fr"}
 # Hackathon
 hackathonTitle: "Competition"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+aboutHackathonTitle: "Coming soon ..."
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+ - {title: "A", image: "hackathon-0.png", details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."}
+ - {title: "B", image: "hackathon-1.png", details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."}
+
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
@@ -285,9 +280,9 @@ judgesTitle: "Judges"
 # Hackathon Prizes Block
 prizesTitle: "Prizes"
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+ - {title: "2nd Place", image: "question-mark.png", info: ""}
+ - {title: "1nd Place", image: "question-mark.png", info: ""}
+ - {title: "3nd Place", image: "question-mark.png", info: ""}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
