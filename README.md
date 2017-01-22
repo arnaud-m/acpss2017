@@ -11,8 +11,9 @@ It will be held September, 18-22th, 2017 in [Porquerolles island]((www.porquerol
 Copyright (c) 2017, Université Nice Sophia Antipolis
 All rights reserved.
 
-#### Website based on the Project Zeppelin 
-[https://github.com/gdg-x/zeppelin/](Project Zeppelin) allows you to setup awesome GDG DevFest site in 5 minutes. 
+#### Website based on the Project Zeppelin
+
+[Project Zeppelin](https://github.com/gdg-x/zeppelin/) allows you to setup awesome GDG DevFest site in 5 minutes. 
 
 Project is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/).
 
@@ -100,5 +101,5 @@ Learn more about available optimization options from [documentation](https://git
 Project is published under the [MIT license](https://github.com/arnaud-m/acpss2017/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
 
 ### Credits
-* Images of Porquerolles: [https://commons.wikimedia.org/wiki/Category:Porquerolles](commons.wikimedia.org)
+* Images of Porquerolles: [commons.wikimedia.org](https://commons.wikimedia.org/wiki/Category:Porquerolles)
 
