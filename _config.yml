@@ -128,13 +128,13 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates (soon available)"
+subscribeTitle: "Subscribe for updates (soon)"
 subscribeAction: ""
 subscribeInfo: "Registration will be open around beginning of March. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Registration is now open at UCC Conferencing.  Accommodation is included in the registration cost. The registration cost includes teaching materials, lunches and coffee breaks, and organized social events."
+ticketsInfo: "<b>Registration cost are not yet fixed.</b> Registration will be open around beginning of March. Accommodation is included in the registration cost. The registration cost includes teaching materials, lunches and coffee breaks, and organized social events."
 ticketsOffers:
  -
   name: "Student"
@@ -222,7 +222,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "This summer school is co-organized by ACP and the french constraint programming working group for \"Constraints and Operational Research\" within the CNRS research group \"operational research\"."
+aboutUs: "This summer school is co-organized by ACP and the french constraint programming working group for \"Constraints and Operational Research\" within the CNRS research group \"operational research\" (GdR RO). Since 2005, the ACP organizes an international school (Ireland, Canada, Italy, Australia, Poland, Turkey, France). In parallel, the GdR RO also yearly organizes schools on a wide range of research areas covered by the CNRS."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
