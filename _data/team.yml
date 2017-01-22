@@ -17,7 +17,7 @@
   name: "Xavier"
   surname: "Lorca"
   title: "IMT Atlantique"
-  thumbnailUrl: people-1.png
+  thumbnailUrl: profile.png
   team: true
 #  ribbon: 
 #    - {abbr: "GDG", title: "Google Developer Group"}
@@ -55,7 +55,7 @@
   name: "Corinne"
   surname: "Julien-Haddad"
   title: "in charge of symposiums at the I3S"
-  thumbnailUrl: people-4.png
+  thumbnailUrl: profile.png
   subTeam: true
 #  ribbon: 
 #    - {abbr: "GDG", title: "Google Developer Group"}

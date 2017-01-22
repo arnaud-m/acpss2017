@@ -29,12 +29,12 @@
     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
 - 
   id: 8
-  name: "?"
+  name: "A"
   surname: "?"
   company: "?"
   title: "?"
   bio: "???"
-  thumbnailUrl: people-8.png
+  thumbnailUrl: profile.png
   rockstar: true
 #   social: 
 # #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -44,12 +44,12 @@
 #     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
 - 
   id: 9
-  name: "?"
+  name: "B"
   surname: "?"
   company: "?"
   title: "?"
   bio: "???"
-  thumbnailUrl: people-9.png
+  thumbnailUrl: profile.png
   rockstar: true
 #   social: 
 # #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -59,12 +59,27 @@
 #     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
 - 
   id: 10
-  name: "?"
+  name: "C"
   surname: "?"
   company: "?"
   title: "?"
   bio: "???"
-  thumbnailUrl: people-10.png
+  thumbnailUrl: profile.png
+  rockstar: true
+#   social: 
+# #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#     - {name: "twitter", link: "https://twitter.com/pschaus"}
+#     - {name: "site", link: "https://www.info.ucl.ac.be/~pschaus/"}
+#   ribbon: 
+#     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
+- 
+  id: 11
+  name: "D"
+  surname: "?"
+  company: "?"
+  title: "?"
+  bio: "???"
+  thumbnailUrl: profile.png
   rockstar: true
 #   social: 
 # #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}

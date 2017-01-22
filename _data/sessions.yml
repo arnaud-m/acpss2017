@@ -9,51 +9,100 @@
   title: "Lunch Break"
   place: "Dining room"
   service: true
+  description: "The best time to talk with speakers and attendees"  
+-
+  id: 504
+  title: "Kickstart Session"
+  place: "Dining room"
+  service: true
+  description: "until dinner at ?."
+-
+  id: 505
+  title: "Night Session"
+  place: "Dining room"
+  service: true
+  description: "Solve problems while eating pizzas."    
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Industrial applications of CP and OR."
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
   subtype: workshop
-  speakers: [3, 6]
+  speakers: [8]
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "?"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Scheduling"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [9]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "?" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Optimizing the design and delivery of healthcare"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
   subtype: presentation
-  speakers: [4]
+  speakers: [6]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  complexity: "?" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "CP softwares and tools"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
+  subtype: presentation
+  speakers: [10]
+  language: en
+  complexity: "?"
+#  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Problem Solving Competition"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
+  subtype: workshop
   speakers: [7]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "?"
+#  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+#  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 006
+  title: "CP in a nusthell"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
+  subtype: presentation
+  speakers: [11]
+  language: en
+  complexity: "Beginner" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 801
+  title: "Social event"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
+  subtype: leisure
+#  speakers: [6]
+  language: en
+  complexity: "Keep cool!" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 901
+  title: "Kickstart session"
+  description: "Until dinner at ?"
+  subtype: competition
+#  speakers: [6]
+  language: en
+  complexity: "Beginner." 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 902
+  title: "Night session"
+  description: "Solve problems while eating pizzas."
+  subtype: competition
+#  speakers: [6]
+  language: en
+  complexity: "Expert ;)" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
