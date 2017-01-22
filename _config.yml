@@ -76,8 +76,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "30", specialCharacter: "+", info: "hours", detail: "of pure constraint technologies"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "2", specialCharacter: "", info: "social event", detail: "plus extended lunch breaks"}
+ - {count: "6", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "social events", detail: "plus extended lunch breaks"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
