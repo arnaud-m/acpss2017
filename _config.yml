@@ -16,9 +16,9 @@ description: "The ACP summer school is held annually all around the world"
 baseurl: "/acpss2017"
 url: "http://arnaud-m.github.io"
 permalink: "/blog/:title"
-#googleAnalyticsTrackingId: "UA-45498641-2"
-#googleAnalyticsSiteUrl: "arnaud-m.github.io"
-#siteVerification: "09dcT5bQJVjtMrutt2m_aqR5nS9AZ-_RTscjPHuHF10"
+googleAnalyticsTrackingId: "UA-45498641-2"
+googleAnalyticsSiteUrl: "arnaud-m.github.io"
+siteVerification: "09dcT5bQJVjtMrutt2m_aqR5nS9AZ-_RTscjPHuHF10"
 
 # Organizer Info
 organizerName: "ACP"
