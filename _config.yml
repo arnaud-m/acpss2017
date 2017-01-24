@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/competition/", text: "Competition"}
+ - {permalink: "/diy/", text: "Do It Yourself!"}
 bottomNavigationLinks:
  - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
@@ -66,17 +66,17 @@ heroButtons:
 # About Block
 aboutTitle: "About the summer school"
 aboutBlock:
- - {title: "Conference", image: "OR.jpg", text: "The biggest Constraint Programming & Operational Research school in the country carefully crafted for you by ACP and GdR RO communities! Awesome speakers and lots of fun!" }
+ - {title: "Topic", image: "OR.jpg", text: "Hybridization of Constraint Programming and Operational Research: from practical opportunities to concrete implementation of solutions." }
 # http://sdymchenko.com/blog/2015/03/13/electrifying-eclipse/ 
- - {title: "Workshops", image: "electrifying.gif", text: "Days of workshops, hands-on experience, hacking and debugging. Come and tame your favourite constraint technology!" }
- - {title: "Competition", image: "minicp.png", text: "minicp competition! Want some real team building and problem solving? Grab your team and join our competition!" }
- - {title: "1 Place to Go", image: "porquerolles.jpg", text: "Porquerolles is a small island in the Iles d'Hyères, Var, France. It is one of the <a href=\"https://www.nytimes.com/interactive/2017/travel/places-to-visit.html\">52 Places to Go in 2017</a> of the NY Times. The south coast is lined with cliffs, and on the north coast are the port and the beaches. Much of the island is now part of the Port-Cros national park."}
+ - {title: "For which?", image: "electrifying.gif", text: "PhD students, masters students and industrial practitioners, who want to get a good understanding of capabilities and current research directions in the area of Constraint Programming, particularly at the frontier with Operational Research, are all welcome." }
+ - {title: "Do it yourself?", image: "minicp.png", text: "minicp competition! The participants will be challenged on a given problem both in term of modeling and implementation of a solution in their own standalone tool." }
+ - {title: "1 Place to Go", image: "porquerolles.jpg", text: "Porquerolles is a small island in the Hyères islands, Var, France. It is one of the <a href=\"https://www.nytimes.com/interactive/2017/travel/places-to-visit.html\">52 Places to Go in 2017</a> of the NY Times. The south coast is lined with cliffs, and on the north coast are the port and the beaches. Much of the island is now part of the Port-Cros national park."}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "30", specialCharacter: "+", info: "hours", detail: "of pure constraint technologies"}
+ - {count: "30", specialCharacter: "+", info: "hours", detail: "of pure problem solving"}
  - {count: "6", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "social events", detail: "plus extended lunch breaks"}
 
@@ -264,7 +264,7 @@ directionDetailsWideCards:
      - {link: "http://www.porquerolles.com/", text: "www.porquerolles.com"}
      - {link: "http://www.portcrosparcnational.fr", text: "www.portcrosparcnational.fr"}
 # Hackathon
-hackathonTitle: "Competition"
+hackathonTitle: "Do it yourself!"
 enableHackathon: true
 
 # Hackathon About Block
