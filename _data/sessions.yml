@@ -62,7 +62,7 @@
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Problem Solving Competition"
+  title: "Do it yourself!"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
   subtype: workshop
   speakers: [7]
