@@ -1,10 +1,10 @@
-# ACPSS2017 / Joint ACP and GdR RO Summer School 2017
+# Joint ACP and GdR RO Summer School 2017
 
 ### About 
 
 This is the website of the [13th ACP Summer School](http://school.a4cp.org/summer2017).
     
-It will be held September, 18-22th, 2017 in [Porquerolles island]((www.porquerolles.com/)), France.
+It will be held September, 18-22th, 2017 on the [Porquerolles island]((www.porquerolles.com/)), France.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

@@ -27,7 +27,7 @@
   title: "Industrial applications of CP and OR."
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
   subtype: workshop
-  speakers: [8]
+  speakers: [9]
   language: en
   complexity: "?"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -36,7 +36,7 @@
   title: "Scheduling"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
   subtype: presentation
-  speakers: [9]
+  speakers: [8]
   language: en
   complexity: "?" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"

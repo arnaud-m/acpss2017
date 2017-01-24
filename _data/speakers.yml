@@ -29,12 +29,12 @@
     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
 - 
   id: 8
-  name: "A"
-  surname: "?"
-  company: "?"
-  title: "?"
-  bio: "???"
-  thumbnailUrl: profile.png
+  name: "Emmanuel"
+  surname: "Hébrard"
+  company: "LAAS-CNRS"
+  title: "Researcher"
+  bio: "I am a CNRS researcher at the Laboratoire d'Analyse et d'Architecture des Systemes in Toulouse. I am a member of the ROC group which isn't a Rock band. ROC stands for \"Operations Research, Combinatorial Optimization and Constraints\""
+  thumbnailUrl: people-8.png
   rockstar: true
 #   social: 
 # #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
