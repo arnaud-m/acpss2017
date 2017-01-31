@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "ACPSS 2017"
 email: "acpss@i3s.unice.fr"
 description: "The ACP summer school is held annually all around the world"
-baseurl: "/school2017"
+baseurl: "/summer2017"
 url: "http://school.a4cp.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-45498641-2"
