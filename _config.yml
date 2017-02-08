@@ -270,8 +270,9 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Coming soon ..."
 hackathonRows:
- - {title: "A", image: "hackathon-0.png", details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."}
- - {title: "B", image: "hackathon-1.png", details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."}
+ - {title: "A great challenge", image: "hackathon-0.png", details: "What better than building its own solver to understand the strengths and weaknesses of our paradigm? This is the challenge we offer this year during the summer school!"}
+ - {title: "Learn the insights", image: "hackathon-1.png", details: "From years, observing our students shows us that constraint Programming cannot be resumed to a modelling task. That is to say that an expert of CP cannot be only a good modeler, but he has to understand the underlying mecanics of the CP tools in order to anticipate the diffucilties regarding a given problem."}
+ - {title: "Improve your sotware engineering skills", image: "hackathon-1.png", details: "During this week, you'll discover how to build your own CP tool. You'll identify which are the bottlenecks and pitfalls to avoid within the CP tool development, both in terms of algorithmics and software engineering."}
 
 
 # Hackathon Judges Block
