@@ -75,10 +75,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "10", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "30", specialCharacter: "+", info: "hours", detail: "of pure problem solving"}
  - {count: "6", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "social events", detail: "plus extended lunch breaks"}
+ - {count: "2", specialCharacter: "", info: "social events", detail: "plus extended lunch breaks"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -128,8 +128,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates (soon)"
-subscribeAction: ""
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "http://mailman.i3s.unice.fr/mailman/subscribe/acpss2017-suscribers"
 subscribeInfo: "Registration will be open around beginning of March. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
@@ -144,7 +144,7 @@ ticketsOffers:
   buyButtonLink: ""
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-01T10:00"
   validThrough: "2017-09-14T23:59"
   disabled: true  
@@ -272,7 +272,7 @@ aboutHackathonTitle: "Coming soon ..."
 hackathonRows:
  - {title: "A great challenge", image: "hackathon-0.png", details: "What better than building its own solver to understand the strengths and weaknesses of our paradigm? This is the challenge we offer this year during the summer school!"}
  - {title: "Learn the insights", image: "hackathon-1.png", details: "From years, observing our students shows us that constraint Programming cannot be resumed to a modelling task. That is to say that an expert of CP cannot be only a good modeler, but he has to understand the underlying mecanics of the CP tools in order to anticipate the diffucilties regarding a given problem."}
- - {title: "Improve your sotware engineering skills", image: "hackathon-1.png", details: "During this week, you'll discover how to build your own CP tool. You'll identify which are the bottlenecks and pitfalls to avoid within the CP tool development, both in terms of algorithmics and software engineering."}
+ - {title: "Improve your software engineering skills", image: "hackathon-1.png", details: "During this week, you'll discover how to build your own CP tool. You'll identify which are the bottlenecks and pitfalls to avoid within the CP tool development, both in terms of algorithmics and software engineering."}
 
 
 # Hackathon Judges Block
