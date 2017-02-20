@@ -18,28 +18,31 @@
   surname: "Schaus"
   company: "UCLouvain"
   title: "Assistant Professor"
-  bio: "I obtained my Ph.D. from the UCLouvain University in 2009. I spent 5 months at Brown University. Then I joined the Dynadec startup to work on Comet during two years before working two more years at N-SIDE. I'm now at UCLouvain since September 2012."
+  bio: "Pierre Schaus obtained my Ph.D. from the UCLouvain University in 2009. He spent 5 months at Brown University working with Pascal Van Hentenryck. Then I joined the Dynadec startup to work on Comet during two years before working two more years at N-SIDE. He is now at Assistant Professor @UCLouvain since September 2012. His research team develops the www.oscarlib.org CP solver."
   thumbnailUrl: people-7.jpg
   rockstar: true
   social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/pschaus"}
     - {name: "site", link: "https://www.info.ucl.ac.be/~pschaus/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pschaus/"}
+    - {name: "site", link: "https://bitbucket.org/pschaus/"}
   ribbon: 
-    - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
+    - {abbr: "Oscar Lib", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/"}
 - 
   id: 8
   name: "Emmanuel"
   surname: "Hébrard"
   company: "LAAS-CNRS"
   title: "Researcher"
-  bio: "I am a CNRS researcher at the Laboratoire d'Analyse et d'Architecture des Systemes in Toulouse. I am a member of the ROC group which isn't a Rock band. ROC stands for \"Operations Research, Combinatorial Optimization and Constraints\""
+  bio: "Emmanuel Hébrard is a CNRS researcher at the Laboratoire d'Analyse et d'Architecture des Systemes in Toulouse. He is a member of the ROC group which isn't a Rock band. ROC stands for \"Operations Research, Combinatorial Optimization and Constraints\"."
   thumbnailUrl: people-8.png
   rockstar: true
-#   social: 
+  social: 
 # #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
 #     - {name: "twitter", link: "https://twitter.com/pschaus"}
-#     - {name: "site", link: "https://www.info.ucl.ac.be/~pschaus/"}
+    - {name: "site", link: "http://homepages.laas.fr/ehebrard/"}
+    - {name: "github", link: "https://github.com/ehebrard/"}
 #   ribbon: 
 #     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
 - 

@@ -2,7 +2,7 @@
   id: 0
   name: "Marie-Jo"
   surname: "Huguet"
-  title: "INSA Toulouse"
+  title: "INSA Toulouse, LAAS-CNRS"
   thumbnailUrl: people-0.jpg
   team: true
 #  ribbon: 
@@ -17,7 +17,7 @@
   name: "Xavier"
   surname: "Lorca"
   title: "IMT Atlantique"
-  thumbnailUrl: profile.png
+  thumbnailUrl: people-1.jpg
   team: true
 #  ribbon: 
 #    - {abbr: "GDG", title: "Google Developer Group"}
