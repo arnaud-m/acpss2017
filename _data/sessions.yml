@@ -33,8 +33,8 @@
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Scheduling"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
+  title: "Resource Constraints for Scheduling"
+  description: "The goal of this tutorial is to give an overview of a key contribution of constraint programming to the domain of scheduling: efficient algorithms for reasoning about complex resources. I will first survey well known algorithms for propagating disjunctive and cumulative renewable resource constraints. In particular, the timetabling, edge-finding and energetic reasoning algorithms will be analyzed in depth. Then, less standard types of resources will be introduced, such as cache and capacity resources together with some algorithms to reason about them."
   subtype: presentation
   speakers: [8]
   language: en
