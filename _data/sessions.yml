@@ -53,7 +53,7 @@
 -
   id: 004
   title: "CP softwares and tools"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
+  description: ""
   subtype: presentation
   speakers: [10]
   language: en
@@ -63,7 +63,7 @@
 -
   id: 005
   title: "Do it yourself!"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
+  description: "minicp competition! The participants will be challenged on a given problem both in term of modeling and implementation of a solution in their own standalone tool."
   subtype: workshop
   speakers: [7]
   language: en
@@ -81,17 +81,17 @@
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 007
-  title: "?"
+  title: "Graph, TSP"
   description: "?"
   subtype: presentation
   speakers: [12]
   language: en
-  complexity: "Beginner" 
+  complexity: "?" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 801
   title: "Social event"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
+  description: ""
   subtype: leisure
 #  speakers: [6]
   language: en
