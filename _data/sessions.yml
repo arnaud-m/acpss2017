@@ -25,8 +25,8 @@
 -
   id: 001
   title: "Industrial applications of CP and OR."
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
-  subtype: workshop
+  description: ""
+  subtype: presentation
   speakers: [9]
   language: en
   complexity: "?"
@@ -44,12 +44,12 @@
 -
   id: 003
   title: "Optimizing the design and delivery of healthcare"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
+  description: ""
   subtype: presentation
   speakers: [6]
   language: en
   complexity: "?" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "http://hanalog.polymtl.ca/wp-content/uploads/2016/04/The-role-of-analytics-in-improving-the-efficiency-of-cancer-treatment-facilities.pdf"
 -
   id: 004
   title: "CP softwares and tools"
@@ -76,6 +76,15 @@
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
   subtype: presentation
   speakers: [11]
+  language: en
+  complexity: "Beginner" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 007
+  title: "?"
+  description: "?"
+  subtype: presentation
+  speakers: [12]
   language: en
   complexity: "Beginner" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"

@@ -69,7 +69,7 @@ aboutBlock:
  - {title: "Topic", image: "OR.jpg", text: "Hybridization of Constraint Programming and Operational Research: from practical opportunities to concrete implementation of solutions." }
 # http://sdymchenko.com/blog/2015/03/13/electrifying-eclipse/ 
  - {title: "For which?", image: "electrifying.gif", text: "PhD students, masters students and industrial practitioners, who want to get a good understanding of capabilities and current research directions in the area of Constraint Programming, particularly at the frontier with Operational Research, are all welcome." }
- - {title: "Do it yourself?", image: "minicp.png", text: "minicp competition! The participants will be challenged on a given problem both in term of modeling and implementation of a solution in their own standalone tool." }
+ - {title: "Do it yourself!", image: "minicp.png", text: "minicp competition! The participants will be challenged on a given problem both in term of modeling and implementation of a solution in their own standalone tool." }
  - {title: "1 Place to Go", image: "porquerolles.jpg", text: "Porquerolles is a small island in the Hyères islands, Var, France. It is one of the <a href=\"https://www.nytimes.com/interactive/2017/travel/places-to-visit.html\">52 Places to Go in 2017</a> of the NY Times. The south coast is lined with cliffs, and on the north coast are the port and the beaches. Much of the island is now part of the Port-Cros national park."}
 
 # Statistic Block
@@ -133,19 +133,29 @@ subscribeAction: "http://mailman.i3s.unice.fr/mailman/subscribe/acpss2017-suscri
 subscribeInfo: "Registration will be open around beginning of March. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
+## TODO
+# Instructions for the registration
+#
+#
+# To register, please go to the registration page.
+# Please enter the name of an administrative contact person of your organization in the “Contact Name” field, or your name, if you are the person to contact for administrative matters.
+#
+# Please note: for the early registration fee eligibility, the date of the payment is considered (not the pre-registration date).
+## TODO
+## Register early to avoid disappointment. Especially, if you require a visa to visit Ireland, please register early, so that formalities can be handled in time.
 ticketsTitle: "Pricetable"
-ticketsInfo: "<b>Registration cost are not yet fixed.</b> Registration will be open around beginning of March. Accommodation is included in the registration cost. The registration cost includes teaching materials, lunches and coffee breaks, and organized social events."
+ticketsInfo: "Accommodation is included in the registration cost. The registration cost also includes teaching materials, lunches and coffee breaks, and organized social events.</br></br><p align=\"left\"><b>Instructions for the registration</b></br>The registration follows a 3 steps hand-shake protocol:</p><ul style=\"text-align: left\"><li>Fill the pre-registration form with personal information (no payment at this point)</li><li>Wait for the confirmation email (this may take a few days, validation is done manually)</li><li>Follow the link given in confirmation e-mail to complete your registration.</li></ul><p align=\"left\">Please enter the name of an administrative contact person of your organization in the “Contact Name” field, or your name, if you are the person to contact for administrative matters. For the early registration fee eligibility, the date of the payment is considered (not the pre-registration date).</br>Register early to avoid disappointment. Especially, if you require a visa to visit France, please register early, so that formalities can be handled in time.</p>"
 ticketsOffers:
  -
   name: "Student"
-  price: "?"
+  price: "250"
   priceCurrency: "EUR"
   ticketsNumber: "50"
   buyButtonLink: ""
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund."
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-03-01T10:00"
+  validFrom: "2017-03-15T10:00"
   validThrough: "2017-09-14T23:59"
   disabled: true  
 #  soldOut: true
@@ -154,43 +164,82 @@ ticketsOffers:
   name: "CNRS Student/Employee"
   price: "0"
   priceCurrency: "EUR"
-  ticketsNumber: "10"
+  ticketsNumber: "15"
   ribbon: "Free Registration!"
   buyButtonLink: ""
   buyButtonText: "Buy Now"
-  additionalInfo: "The school has been awarded the \"École Thématique\" label of the CNRS."
+  additionalInfo: "Requires a valid CNRS contract. The travel expenses can be taken in charge by the \"Formation Permanente\". Indeed, the school has been awarded the \"École Thématique\" label of the CNRS."
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-03-01T10:00"
-  validThrough: "2017-09-14T23:59"
+  validFrom: "2017-03-15T10:00"
+  validThrough: "2017-07-31T23:59"
+  disabled: true  
+#  soldOut: true
+#  soldOutText: "Sold Out"
+ -
+  name: "EDSTIC Student"
+  price: "200"
+  priceCurrency: "EUR"
+  ticketsNumber: "15"
+  ribbon: "20%"
+  buyButtonLink: ""
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires to be a PhD student at the IT doctoral school of Nice Sophia Antipolis."
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2017-03-15T10:00"
+  validThrough: "2017-07-31T23:59"
   disabled: true  
 #  soldOut: true
 #  soldOutText: "Sold Out"  
  -
-  name: "Early Bird"
-  price: "?"
+  name: "Academic"
+  price: "350"
   priceCurrency: "EUR"
   ticketsNumber: "60"
 #  ribbon: "-5%"
   buyButtonLink: ""
   buyButtonText: "Buy Now"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-03-01T10:00"
-  validThrough: "2017-09-04T23:59"
-  disabled: true  
+  validFrom: "2017-03-15T10:00"
+  validThrough: "2017-07-31T23:59"
+  disabled: true
  -
-  name: "Last Chance"
-  price: "?"
+  name: "Industrial"
+  price: "600"
   priceCurrency: "EUR"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  ticketsNumber: "60"
+#  ribbon: "-5%"
+  buyButtonLink: ""
+  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2017-03-15T10:00"
+  validThrough: "2017-07-31T23:59"
+  disabled: true   
+ -
+  name: "Last Chance (Academic)"
+  price: "450"
+  priceCurrency: "EUR"
+  ticketsNumber: "10"
+#  ribbon: "-20%"
   featured: true
   buyButtonLink: ""
   buyButtonText: "Buy Now"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-09-05T00:00"
+  validFrom: "2017-08-01T00:00"
   validThrough: "2017-09-14T23:59"
   disabled: true
-
+ -
+  name: "Last Chance (Industrial)"
+  price: "700"
+  priceCurrency: "EUR"
+  ticketsNumber: "10"
+#  ribbon: "-20%"
+  featured: true
+  buyButtonLink: ""
+  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2017-08-01T00:00"
+  validThrough: "2017-09-14T23:59"
+  disabled: true  
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/102823071002713900693", icon: "google-plus"}
