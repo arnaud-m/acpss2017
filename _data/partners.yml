@@ -2,10 +2,11 @@
   group: ""
   elements: 
     - {name: "CNRS", description: "CNRS", link: "http://www.cnrs.fr/", imageUrl: "cnrs.svg"}
+    - {name: "PIA", description: "Investissement d'avenir", link: "http://www.gouvernement.fr/investissements-d-avenir-cgi", imageUrl: "pia.png"}
+    - {name: "UCA", description: "UCA", link: "http://univ-cotedazur.fr/", imageUrl: "uca.png"}
     - {name: "UNS", description: "UNS", link: "http://unice.fr/", imageUrl: "uns.jpg"}
     - {name: "I3S", description: "I3S", link: "http://i3s.unice.fr/", imageUrl: "i3s.jpg"}
-    - {name: "UCA", description: "UCA", link: "http://univ-cotedazur.fr/", imageUrl: "uca.png"}
-    - {name: "PIA", description: "Investissement d'avenir", link: "http://www.gouvernement.fr/investissements-d-avenir-cgi", imageUrl: "pia.png"}
+    - {name: "EDSTIC", description: "EDSTIC", link: "http://edstic.unice.fr/", imageUrl: "edstic.png"}
 - 
   group: "With support of"
   elements: 
