@@ -35,7 +35,7 @@
   surname: "Hébrard"
   company: "LAAS-CNRS"
   title: "Researcher"
-  bio: "Emmanuel Hébrard is a CNRS researcher at the Laboratoire d'Analyse et d'Architecture des Systemes in Toulouse. He is a member of the ROC group which isn't a Rock band. ROC stands for \"Operations Research, Combinatorial Optimization and Constraints\"."
+  bio: "Emmanuel Hebrard is a research fellow at the CNRS in Toulouse. His research in constraint programming has had many applications in scheduling, with in particular a contribution to scheduling the activities of the lander Philae on the comet Churyumov-Gerasimenko."
   thumbnailUrl: people-8.png
   rockstar: true
   social: 
@@ -51,10 +51,10 @@
   surname: "?"
   company: "?"
   title: "?"
-  bio: "???"
+  bio: ""
   thumbnailUrl: profile.png
   rockstar: true
-#   social: 
+#  social: 
 # #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
 #     - {name: "twitter", link: "https://twitter.com/pschaus"}
 #     - {name: "site", link: "https://www.info.ucl.ac.be/~pschaus/"}
@@ -90,3 +90,19 @@
 #     - {name: "site", link: "https://www.info.ucl.ac.be/~pschaus/"}
 #   ribbon: 
 #     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
+- 
+  id: 12
+  name: "David"
+  surname: "Coudert"
+  company: "INRIA"
+  title: "Director of research"
+  bio: ""
+  thumbnailUrl: profile.png
+  rockstar: true
+  social: 
+# #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#     - {name: "twitter", link: "https://twitter.com/pschaus"}
+    - {name: "site", link: "http://www-sop.inria.fr/members/David.Coudert/index.shtml/"}
+  ribbon: 
+    - {abbr: "SageMath", title: "Free open-source mathematics software", url: "http://www.sagemath.org/"}
+
