@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "ACPSS 2017"
 email: "acpss@i3s.unice.fr"
 description: "The ACP summer school is held annually all around the world"
-baseurl: "/acpss2017"
-url: "http://arnaud-m.github.io"
+baseurl: "/summer2017"
+url: "http://school.a4cp.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-45498641-2"
 googleAnalyticsSiteUrl: "arnaud-m.github.io"
@@ -144,7 +144,7 @@ subscribeInfo: "Registration will be open around beginning of March. Number of t
 ## TODO
 ## Register early to avoid disappointment. Especially, if you require a visa to visit Ireland, please register early, so that formalities can be handled in time.
 ticketsTitle: "Pricetable"
-ticketsInfo: "Accommodation is included in the registration cost.</br>The registration cost also includes teaching materials, lunches and coffee breaks, and organized social events.</br></br><p align=\"left\"><b>Instructions for the registration</b></br>The registration follows a 3 steps hand-shake protocol:</p><ul style=\"text-align: left\"><li>Fill the pre-registration form with personal information (no payment at this point)</li><li>Wait for the confirmation email (this may take a few days, validation is done manually)</li><li>Follow the link given in confirmation e-mail to complete your registration.</li></ul><p align=\"left\">Please enter the name of an administrative contact person of your organization in the “Contact Name” field, or your name, if you are the person to contact for administrative matters. For the early registration fee eligibility, the date of the payment is considered (not the pre-registration date).</br>Register early to avoid disappointment. Especially, if you require a visa to visit France, please register early, so that formalities can be handled in time.</p>"
+ticketsInfo: "<b>Accommodation is included in the registration cost.</b></br>The registration cost also includes teaching materials, lunches and coffee breaks, and organized social events.</br></br><p align=\"left\"><b>Instructions for the registration</b></br>The registration follows a 3 steps hand-shake protocol:</p><ul style=\"text-align: left\"><li>Fill the pre-registration form with personal information (no payment at this point)</li><li>Wait for the confirmation email (this may take a few days, validation is done manually)</li><li>Follow the link given in confirmation e-mail to complete your registration.</li></ul><p align=\"left\">Please enter the name of an administrative contact person of your organization in the “Contact Name” field, or your name, if you are the person to contact for administrative matters. For the early registration fee eligibility, the date of the payment is considered (not the pre-registration date).</br>Register early to avoid disappointment. Especially, if you require a visa to visit France, please register early, so that formalities can be handled in time.</p>"
 ticketsEarly: "2017-07-31"
 ticketsLate: "2017-09-11"
 ticketsOffers:
