@@ -27,7 +27,7 @@
   title: "Industrial applications of CP and OR."
   description: ""
   subtype: presentation
-  speakers: [9]
+  speakers: [10]
   language: en
   complexity: "?"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -55,7 +55,7 @@
   title: "CP softwares and tools"
   description: ""
   subtype: presentation
-  speakers: [10]
+  speakers: [9]
   language: en
   complexity: "?"
 #  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
@@ -72,8 +72,8 @@
   video: "https://www.youtube.com/embed/opXBR00z_QM"
 -
   id: 006
-  title: "CP in a nusthell"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quam nunc, euismod sed diam ut, malesuada gravida lectus. Mauris sed pharetra massa. Fusce id metus massa. Sed faucibus odio in sollicitudin pretium. Aenean eu magna ligula."
+  title: "CP in a nutshell"
+  description: ""
   subtype: presentation
   speakers: [11]
   language: en
@@ -81,13 +81,23 @@
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 007
-  title: "Graph, TSP"
-  description: "?"
+  title: "On the Flinders Hamiltonian Cycle Problem Challenge"
+  description: ""
   subtype: presentation
   speakers: [12]
   language: en
   complexity: "?" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+-
+  id: 008
+  title: "Placing virtual machines in a cloud under constraints."
+  description: ""
+  subtype: presentation
+  speakers: [13]
+  language: en
+  complexity: "" 
+#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  video: "http://webcast.in2p3.fr/videos-a_flexible_virtual_machine_placement_algorithm_for_iaas_clouds_to_fit_evolving_user_requirements"
 -
   id: 801
   title: "Social event"

@@ -8,8 +8,8 @@
   thumbnailUrl: people-6.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/LM_Rousseau"}
-    - {name: "site", link: "http://hanalog.polymtl.ca/person/louis-martin-rousseau/"}
+   - {name: "site", link: "http://hanalog.polymtl.ca/person/louis-martin-rousseau/"}
+   - {name: "twitter", link: "https://twitter.com/LM_Rousseau"}
   ribbon: 
     - {abbr: "Hanalog", title: "Hanalog Chair Holder", url: "http://hanalog.polymtl.ca/en/"}
 - 
@@ -23,8 +23,8 @@
   rockstar: true
   social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/pschaus"}
     - {name: "site", link: "https://www.info.ucl.ac.be/~pschaus/"}
+    - {name: "twitter", link: "https://twitter.com/pschaus"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/pschaus/"}
     - {name: "site", link: "https://bitbucket.org/pschaus/"}
   ribbon: 
@@ -35,7 +35,7 @@
   surname: "Hébrard"
   company: "LAAS-CNRS"
   title: "Researcher"
-  bio: "Emmanuel Hebrard is a research fellow at the CNRS in Toulouse. His research in constraint programming has had many applications in scheduling, with in particular a contribution to scheduling the activities of the lander Philae on the comet Churyumov-Gerasimenko."
+  bio: "Emmanuel Hébrard is a research fellow at the CNRS in Toulouse. His research in constraint programming has had many applications in scheduling, with in particular a contribution to scheduling the activities of the lander Philae on the comet Churyumov-Gerasimenko."
   thumbnailUrl: people-8.png
   rockstar: true
   social: 
@@ -47,10 +47,10 @@
 #     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
 - 
   id: 9
-  name: "B"
-  surname: "?"
-  company: "?"
-  title: "?"
+  name: "Youssef"
+  surname: "Hamadi"
+  company: ""
+  title: ""
   bio: ""
   thumbnailUrl: profile.png
   rockstar: true
@@ -62,32 +62,33 @@
 #     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
 - 
   id: 10
-  name: "C"
-  surname: "?"
-  company: "?"
-  title: "?"
-  bio: "???"
+  name: "Bertrand"
+  surname: "Le Cun"
+  company: "Google Inc."
+  title: "Software Engineer"
+  bio: ""
   thumbnailUrl: profile.png
   rockstar: true
-#   social: 
-# #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/117642394038032536905"}
+    - {name: "linkedin", link: "https://fr.linkedin.com/in/bertrand-le-cun-6001a411"}
 #     - {name: "twitter", link: "https://twitter.com/pschaus"}
 #     - {name: "site", link: "https://www.info.ucl.ac.be/~pschaus/"}
 #   ribbon: 
 #     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
 - 
   id: 11
-  name: "D"
-  surname: "?"
-  company: "?"
-  title: "?"
-  bio: "???"
+  name: "Pierre"
+  surname: "Flener"
+  company: "Uppsala University"
+  title: "Professor"
+  bio: ""
   thumbnailUrl: profile.png
   rockstar: true
-#   social: 
+  social: 
 # #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
 #     - {name: "twitter", link: "https://twitter.com/pschaus"}
-#     - {name: "site", link: "https://www.info.ucl.ac.be/~pschaus/"}
+     - {name: "site", link: "http://user.it.uu.se/~pierref/"}
 #   ribbon: 
 #     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
 - 
@@ -105,4 +106,19 @@
     - {name: "site", link: "http://www-sop.inria.fr/members/David.Coudert/index.shtml/"}
   ribbon: 
     - {abbr: "SageMath", title: "Free open-source mathematics software", url: "http://www.sagemath.org/"}
+- 
+  id: 13
+  name: "Fabien"
+  surname: "Hermenier"
+  company: "Nutanix"
+  title: "Software Engineer"
+  bio: "Fabien Hermenier received the Ph.D degree in 2009 from the University of Nantes. Since 2006, he is working on resource management algorithms for IaaS infrastructures. His results are consolidated in BtrPlace, an open source solution for virtual machine placement based on Constraint Programming.</br>Fabien Hermenier was an associate professor at University of Nice Sophia-Antipolis from 2011 to 2017. In 2017, he joined Nutanix to support the industrialisation of BtrPlace and address new challenges related to resource management in entreprise clouds."
+  thumbnailUrl: profile.png
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://fhermeni.github.io"}
+    - {name: "twitter", link: "https://twitter.com/pschaus"}
+    - {name: "github", link: "https://github.com/fhermeni/"}
+  ribbon: 
+    - {abbr: "BtrPlace", title: "Open-Source flexible virtual machine manager", url: "http://www.btrplace.org/"}
 
