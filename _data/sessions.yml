@@ -15,13 +15,13 @@
   title: "Kickstart Session"
   place: "Dining room"
   service: true
-  description: "until dinner at ?."
+#  description: "until dinner at ?."
 -
   id: 505
-  title: "Night Session"
+  title: "Gala Dinner"
   place: "Dining room"
   service: true
-  description: "Solve problems while eating pizzas."    
+#  description: ""    
 -
   id: 001
   title: "Industrial applications of CP and OR."
@@ -97,7 +97,7 @@
   language: en
   complexity: "" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "http://webcast.in2p3.fr/videos-a_flexible_virtual_machine_placement_algorithm_for_iaas_clouds_to_fit_evolving_user_requirements"
+#  video: "http://webcast.in2p3.fr/videos-a_flexible_virtual_machine_placement_algorithm_for_iaas_clouds_to_fit_evolving_user_requirements"
 -
   id: 801
   title: "Social event"
@@ -106,22 +106,4 @@
 #  speakers: [6]
   language: en
   complexity: "Keep cool!" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 901
-  title: "Kickstart session"
-  description: "Until dinner at ?"
-  subtype: competition
-#  speakers: [6]
-  language: en
-  complexity: "Beginner." 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 902
-  title: "Night session"
-  description: "Solve problems while eating pizzas."
-  subtype: competition
-#  speakers: [6]
-  language: en
-  complexity: "Expert ;)" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"

@@ -75,9 +75,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "10", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "30", specialCharacter: "+", info: "hours", detail: "of pure problem solving"}
- - {count: "6", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
+ - {count: "20", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "25", specialCharacter: "+", info: "hours", detail: "of pure problem solving"}
+ - {count: "8", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
  - {count: "2", specialCharacter: "", info: "social events", detail: "plus extended lunch breaks"}
 
 # Latest News Block
