@@ -17,13 +17,13 @@ baseurl: "/summer2017"
 url: "http://school.a4cp.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-45498641-2"
-googleAnalyticsSiteUrl: "arnaud-m.github.io"
+googleAnalyticsSiteUrl: "school.a4cp.org"
 siteVerification: "09dcT5bQJVjtMrutt2m_aqR5nS9AZ-_RTscjPHuHF10"
 
 # Organizer Info
 organizerName: "ACP"
 organizerAlternateName: "Association for Constraint Programming"
-organizerDescription: "ACP aims at promoting constraint programming in every aspect of the scientific world, by encouraging its theoretical and practical developments, its teachning in the academic institutions, its adoption in the industrial world, and its use in the the application fields."
+organizerDescription: "ACP aims at promoting constraint programming in every aspect of the scientific world, by encouraging its theoretical and practical developments, its teaching in the academic institutions, its adoption in the industrial world, and its use in the the application fields."
 organizerEmail: "acpss2017@i3s.unice.fr"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.a4cp.org/"
@@ -154,8 +154,7 @@ ticketsOffers:
   priceLate: "300"
   priceCurrency: "EUR"
   ticketsNumber: "50"
-  buyButtonLink: "
-https://www.azur-colloque.fr/DR20/inscription/preinscription/101"
+  buyButtonLink: "https://www.azur-colloque.fr/DR20/inscription/en"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund."
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -171,8 +170,7 @@ https://www.azur-colloque.fr/DR20/inscription/preinscription/101"
   priceCurrency: "EUR"
   ticketsNumber: "15"
   ribbon: "Free Registration!"
-  buyButtonLink: "
-https://www.azur-colloque.fr/DR20/inscription/preinscription/101"
+  buyButtonLink: "https://www.azur-colloque.fr/DR20/inscription/en"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid CNRS contract. The travel expenses can be taken in charge by the \"Formation Permanente\"."
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -188,7 +186,7 @@ https://www.azur-colloque.fr/DR20/inscription/preinscription/101"
   priceCurrency: "EUR"
   ticketsNumber: "15"
   ribbon: "20%"
-  buyButtonLink: "https://www.azur-colloque.fr/DR20/inscription/preinscription/101"
+  buyButtonLink: "https://www.azur-colloque.fr/DR20/inscription/en"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires to be a PhD student at the IT doctoral school of Nice Sophia Antipolis."
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -204,7 +202,7 @@ https://www.azur-colloque.fr/DR20/inscription/preinscription/101"
   priceCurrency: "EUR"
   ticketsNumber: "60"
 #  ribbon: "-5%"
-  buyButtonLink: "https://www.azur-colloque.fr/DR20/inscription/preinscription/101"
+  buyButtonLink: "https://www.azur-colloque.fr/DR20/inscription/en"
   buyButtonText: "Buy Now"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-17T10:00"
@@ -217,7 +215,7 @@ https://www.azur-colloque.fr/DR20/inscription/preinscription/101"
   priceCurrency: "EUR"
   ticketsNumber: "60"
 #  ribbon: "-5%"
-  buyButtonLink: "https://www.azur-colloque.fr/DR20/inscription/preinscription/101"
+  buyButtonLink: "https://www.azur-colloque.fr/DR20/inscription/en"
   buyButtonText: "Buy Now"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-17T10:00"
@@ -303,8 +301,8 @@ enableHackathon: true
 aboutHackathonTitle: "Coming soon ..."
 hackathonRows:
  - {title: "A great challenge", image: "hackathon-0.png", details: "What better than building its own solver to understand the strengths and weaknesses of our paradigm? This is the challenge we offer this year during the summer school!"}
- - {title: "Learn the insights", image: "hackathon-1.png", details: "From years, observing our students shows us that constraint Programming cannot be resumed to a modelling task. That is to say that an expert of CP cannot be only a good modeler, but he has to understand the underlying mecanics of the CP tools in order to anticipate the diffucilties regarding a given problem."}
- - {title: "Improve your software engineering skills", image: "hackathon-1.png", details: "During this week, you'll discover how to build your own CP tool. You'll identify which are the bottlenecks and pitfalls to avoid within the CP tool development, both in terms of algorithmics and software engineering."}
+ - {title: "Learn the insights", image: "hackathon-1.png", details: "From years, observing our students shows us that constraint Programming cannot be reduced to a modelling task. That is to say that an expert of CP cannot be only a good modeler, but he has to understand the underlying mechanics of the CP tools in order to anticipate the difficulties regarding a given problem."}
+ - {title: "Improve your software engineering skills", image: "hackathon-1.png", details: "During this week, you'll discover how to build your own CP tool. You'll identify which are the bottlenecks and pitfalls to avoid within the CP tool development, both in terms of algorithmic and software engineering."}
 
 
 # Hackathon Judges Block
