@@ -39,7 +39,7 @@
   thumbnailUrl: people-8.png
   rockstar: true
   social: 
-# #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
 #     - {name: "twitter", link: "https://twitter.com/pschaus"}
     - {name: "site", link: "http://homepages.laas.fr/ehebrard/"}
     - {name: "github", link: "https://github.com/ehebrard/"}
@@ -47,8 +47,8 @@
 #     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
 - 
   id: 9
-  name: "Youssef"
-  surname: "Hamadi"
+  name: "?"
+  surname: "?"
   company: ""
   title: ""
   bio: ""
