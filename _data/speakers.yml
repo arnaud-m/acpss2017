@@ -82,15 +82,15 @@
   surname: "Flener"
   company: "Uppsala University"
   title: "Professor"
-  bio: ""
-  thumbnailUrl: profile.png
+  bio: "<a href=\"http://user.it.uu.se/~pierref\">Pierre Flener</a> is a Professor of Computing Science at Uppsala University (Sweden), where he is the leader and founder of the <a href=\"http://www.it.uu.se/research/group/astra\">ASTRA Research Group on Combinatorial Optimisation</a>, which specialises on global constraints, constraint-based modelling, and constraint-based local search.  He was elected to the Executive Committee of the <a href=\"http://www.a4cp.org\">Association for Constraint Programming (ACP)</a> and was its conference coordinator from 2013 to 2016. He has himself co-chaired <a href=\"http://cp2013.a4cp.org\">CP 2013</a> and the <a href=\"http://www.gecode.org/events/acp-summerschool-2011\">ACP Summer School 2011</a>."
+  thumbnailUrl: people-11.jpg
   rockstar: true
   social: 
 # #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
 #     - {name: "twitter", link: "https://twitter.com/pschaus"}
      - {name: "site", link: "http://user.it.uu.se/~pierref/"}
-#   ribbon: 
-#     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
+  ribbon: 
+     - {abbr: "Astra", title: "ASTRA Group on Combinatorial Optimisation", url: "http://www.it.uu.se/research/group/astra"}
 - 
   id: 12
   name: "David"
