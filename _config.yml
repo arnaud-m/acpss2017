@@ -160,7 +160,7 @@ ticketsOffers:
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-17T10:00"
   validThrough: "2017-09-11T23:59"
-  disabled: true  
+  disabled: false  
   soldOut: false
   soldOutText: "Sold Out"
  -
@@ -176,7 +176,7 @@ ticketsOffers:
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-17T10:00"
   validThrough: "2017-09-11T23:59"
-  disabled: true
+  disabled: false
   soldOut: false
   soldOutText: "Sold Out"
  -
@@ -192,7 +192,7 @@ ticketsOffers:
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-17T10:00"
   validThrough: "2017-09-11T23:59"
-  disabled: true  
+  disabled: false  
   soldOut: false
   soldOutText: "Sold Out"  
  -
@@ -207,7 +207,7 @@ ticketsOffers:
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-17T10:00"
   validThrough: "2017-09-11T23:59"
-  disabled: true
+  disabled: false
  -
   name: "Industrial"
   price: "600"
@@ -220,7 +220,7 @@ ticketsOffers:
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-03-17T10:00"
   validThrough: "2017-09-11T23:59"
-  disabled: true   
+  disabled: false   
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/102823071002713900693", icon: "google-plus"}
