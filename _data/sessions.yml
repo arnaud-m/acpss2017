@@ -78,7 +78,7 @@
   speakers: [11]
   language: en
   complexity: "Beginner" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "http://user.it.uu.se/~pierref/courses/COCP/slides/COCP-poster.pdf"
 -
   id: 007
   title: "On the Flinders Hamiltonian Cycle Problem Challenge"
