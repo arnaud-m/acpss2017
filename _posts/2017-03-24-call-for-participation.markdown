@@ -9,7 +9,7 @@ Dear colleagues,
 
 Let us introduce the Joint ACP and GdR RO Summer School 2017. It will be held September, 18-22th, 2017 in Porquerolles island, France.
 
-http://school.a4cp.org/summer2017
+[http://school.a4cp.org/summer2017](http://school.a4cp.org/summer2017)
 
 This summer school is co-organized by the ACP and the french constraint programming working group for "Constraints and Operational Research" within the CNRS research group "Operational Research".
 
