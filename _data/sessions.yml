@@ -7,24 +7,36 @@
 -
   id: 503
   title: "Lunch Break"
-  place: "Dining room"
+  place: "12:00 -15:00 - dining room"
   service: true
-  description: "The best time to talk with speakers and attendees"  
+#  description: "The best time to talk with speakers and attendees"  
 -
   id: 504
   title: "Kickstart Session"
-  place: "Dining room"
+  place: "Evening"
   service: true
 #  description: "until dinner at ?."
 -
   id: 505
   title: "Gala Dinner"
-  place: "Dining room"
+  place: "Evening - dining room"
   service: true
-#  description: ""    
+#  description: ""
+-
+  id: 901
+  title: "Nice -> Porq."
+#  place: ""
+  service: true
+  description: "Meet us at the station/aiport."
+-
+  id: 902
+  title: "Porq. -> Nice"
+#  place: "Evening - dining room"
+  service: true
+  description: "Return to the station/aiport."
 -
   id: 001
-  title: "Industrial applications of CP and OR."
+  title: "Industrial applications of CP and OR"
   description: ""
   subtype: presentation
   speakers: [10]
@@ -90,7 +102,7 @@
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 008
-  title: "Placing virtual machines in a cloud under constraints."
+  title: "Placing virtual machines in a cloud under constraints"
   description: ""
   subtype: presentation
   speakers: [13]

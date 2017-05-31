@@ -2,42 +2,73 @@
   date: "2017-09-18"
   dateReadable: "September 2017"
   tracks: 
-    - {title: "Mon. 18", color: "#90be4e"}
-    - {title: "Tu. 19", color: "#03a9f4"}
-    - {title: "Wed. 20", color: "#90be4e"}
-    - {title: "Th. 21", color: "#03a9f4"}
-    - {title: "Fri. 22", color: "#90be4e"}
+    - {
+        title: "08:30-10:30",
+        startTime: "08:30",
+    	endTime: "10:00",
+        color: "#90be4e"
+      }
+    - {
+        title: "10:30-12:00",
+    	startTime: "10:30",
+    	endTime: "12:00",        
+        color: "#03a9f4"
+      }
+    # - {
+    #     title: "12:00-15:00",
+    #     startTime: "12:00",
+    # 	endTime: "15:00",
+    #     color: "#90be4e"
+    #   }
+    - {
+        title: "15:00-16:30",
+        startTime: "15:00",
+        endTime: "16:30",
+        color: "#90be4e"
+      }
+    - {
+        title: "17:00-18:30",
+        startTime: "17:00",
+        endTime: "18:30",
+        color: "#03a9f4"
+      }
+    - {
+        title: "Evening",
+        startTime: "20:00",
+        endTime: "00:00",
+        color: "#90be4e"        
+      }
+      
   timeslots:
     - {
     	startTime: "08:30",
-    	endTime: "10:00",
-    	sessionIds: [404, 006, 002, 003, 004]
+    	endTime: "18:30",
+        title: "Mon. 18",
+    	sessionIds: [404, 901, 006, 005, 404]
     }
     - {
-    	startTime: "10:30",
-    	endTime: "12:00",
-    	sessionIds: [404, 007, 001, 004, 005]
+    	startTime: "08:30",
+    	endTime: "18:30",
+        title: "Tu. 19",
+    	sessionIds: [006, 007, 002, 005, 504]
     }    
     - {
-        startTime: "12:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    	startTime: "08:30",
+    	endTime: "18:30",
+        title: "Wed. 20",
+        sessionIds: [002, 001, 003, 004, 404]
     }
     - {
-        startTime: "15:00",
-        endTime: "16:30",
-        sessionIds: [006, 002, 003, 801, 404]
+    	startTime: "08:30",
+    	endTime: "18:30",
+        title: "Th. 21",
+        sessionIds: [003, 008, 801, 404, 505]
     }
     - {
-        startTime: "17:00",
-        endTime: "18:30",
-##        sessionIds: [005, 005, 005, 801, 404]
-        sessionIds: [005, 005, 008, 404, 404]
-    }
-    - {
-        startTime: "20:00",
-        endTime: "00:00",
-        sessionIds: [404, 504, 404, 505, 404]
+    	startTime: "08:30",
+    	endTime: "18:30",
+        title: "Fri. 22",
+        sessionIds: [008, 005, 902, 404, 404]
     }
 
 
