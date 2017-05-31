@@ -43,8 +43,8 @@
 #     - {name: "twitter", link: "https://twitter.com/pschaus"}
     - {name: "site", link: "http://homepages.laas.fr/ehebrard/"}
     - {name: "github", link: "https://github.com/ehebrard/"}
-#   ribbon: 
-#     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
+  ribbon: 
+    - {abbr: "Mistral", title: "C++ library for constraint satisfaction and optimisation", url: "http://homepages.laas.fr/ehebrard/mistral.html"}
 - 
   id: 9
   name: "?"
@@ -97,8 +97,8 @@
   surname: "Coudert"
   company: "INRIA"
   title: "Director of research"
-  bio: ""
-  thumbnailUrl: profile.png
+  bio: "David Coudert is Research Director at Inria Sophia Antipolis – Méditerranée and the scientific leader of <a href=\"http://team.inria.fr/coati\">COATI</a>, a join project-team between Inria and the I3S (CNRS, UNS) laboratory. He obtained his Ph.D. and HDR in computer science from University Nice Sophia Antipolis in 2001 and 2010 respectively. </br> His research interests include algorithmic graph theory, combinatorial optimization and operations research with communication networks as main application area (routing, fault tolerance, reliable design, etc.). He is particularly interested in decomposition and pre-processing methods that can be used to better understand the structure of graphs and he uses this information in the design of algorithms. He collaborates with industrial partners such as Alcatel-Bell labs, Orange labs, 3Roam, Amadeus, Benomad, Instant-System. He contributes the development of graph optimization libraries such as <a href=\"http://grph.inria.fr\">Grph</a> and <a href=\"http://www.sagemath.org\">SageMath</a>. In 2016, he won together with Nathann Cohen the Flinders Hamiltonian Cycle Problem Challenge, an international competition on the famous Hamiltonian Cycle problem."
+  thumbnailUrl: people-12.jpg
   rockstar: true
   social: 
 # #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -106,6 +106,7 @@
     - {name: "site", link: "http://www-sop.inria.fr/members/David.Coudert/index.shtml/"}
   ribbon: 
     - {abbr: "SageMath", title: "Free open-source mathematics software", url: "http://www.sagemath.org/"}
+    - {abbr: "Grph", title: "High performance graph library for Java", url: "http://grph.inria.fr/"}
 - 
   id: 13
   name: "Fabien"
