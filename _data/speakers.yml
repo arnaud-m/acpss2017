@@ -47,15 +47,15 @@
     - {abbr: "Mistral", title: "C++ library for constraint satisfaction and optimisation", url: "http://homepages.laas.fr/ehebrard/mistral.html"}
 - 
   id: 9
-  name: "?"
-  surname: "?"
-  company: ""
-  title: ""
+  name: "Claude"
+  surname: "Le Pape"
+  company: "Schneider Electric"
+  title: "VP Optimization and Analytics"
   bio: ""
   thumbnailUrl: profile.png
   rockstar: true
-#  social: 
-# #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+  social: 
+    - {name: "linkedin", link: "https://fr.linkedin.com/in/claude-le-pape-40095aa"}
 #     - {name: "twitter", link: "https://twitter.com/pschaus"}
 #     - {name: "site", link: "https://www.info.ucl.ac.be/~pschaus/"}
 #   ribbon: 

@@ -271,7 +271,7 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Porquerolles"
 directionDetailsCards:
  - {title: "Come with us", information: "Our preferred way: reach the beautiful city of Nice, and let us take care of the transfer to Porquerolles (bus + ferry). Nice Côte d\'Azur Airport is an international airport with excellent traffic connections, and, of course, there is a train station."}
- - {title: "Come by your own", information: 'Reach the ferry terminal La Tour Fondue and then cross the sea. It is a good trip, but easier to prepare for locals. More information will be available on the blog.'}
+ - {title: "Come by your own", information: 'Reach the ferry terminal La Tour Fondue and then cross the sea. It is a good trip, but easier to prepare for locals. More information is available on the <a href="/summer2017/blog/find-your-way.html">blog</a>.'}
  - {title: "Living on an island", information: 'Porquerolles is beautiful and welcoming, but it is a small island: be prepared if you have specific needs. Ask to the organizer or contact the <a href=http://www.porquerolles.com/>Porquerolles tourist office</a>.'}
 directionDetailsWideCards:
  -
