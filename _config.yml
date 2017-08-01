@@ -75,7 +75,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "20", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "60", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "25", specialCharacter: "+", info: "hours", detail: "of pure problem solving"}
  - {count: "8", specialCharacter: "", info: "speakers", detail: "from country and beyond"}
  - {count: "2", specialCharacter: "", info: "social events", detail: "plus extended lunch breaks"}
@@ -270,7 +270,7 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Porquerolles"
 directionDetailsCards:
- - {title: "Come with us", information: "Our preferred way: reach the beautiful city of Nice, and let us take care of the transfer to Porquerolles (bus + ferry). Nice Côte d\'Azur Airport is an international airport with excellent traffic connections, and, of course, there is a train station."}
+ - {title: "Come with us", information: "Our preferred way: reach the beautiful city of Nice, and let us take care of the transfer to Porquerolles (bus + ferry). Nice Côte d\'Azur Airport is an international airport with excellent traffic connections, and, of course, there is a train station. More information is available on the <a href=\"/summer2017/blog/come-with-us.html\">blog</a>."}
  - {title: "Come by your own", information: 'Reach the ferry terminal La Tour Fondue and then cross the sea. It is a good trip, but easier to prepare for locals. More information is available on the <a href="/summer2017/blog/find-your-way.html">blog</a>.'}
  - {title: "Living on an island", information: 'Porquerolles is beautiful and welcoming, but it is a small island: be prepared if you have specific needs. Ask to the organizer or contact the <a href=http://www.porquerolles.com/>Porquerolles tourist office</a>.'}
 directionDetailsWideCards:
