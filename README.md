@@ -2,13 +2,18 @@
 
 ### About 
 
-This is the website of the [13th ACP Summer School](http://school.a4cp.org/summer2017).
+This is the website of the [13th ACP Summer School](http://school.a4cp.org/summer2017) (ACPSS 2017).
     
 It will be held September, 18-22th, 2017 on the [Porquerolles island]((www.porquerolles.com/)), France.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2017, Université Nice Sophia Antipolis
+Copyright for portions of project ACPSS 2017 are held by 
+Copyright (c) 2014 Oleh Zasadnyy, Vitaliy Zasadnyy
+as part of project Zeppelin.
+
+All other copyright for project ACPSS 2017 are held by
+Copyright (c) 2017 Arnaud Malapert, Université Nice Sophia Antipolis.
 All rights reserved.
 
 #### Website based on the Project Zeppelin
