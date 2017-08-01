@@ -8,12 +8,12 @@ It will be held September, 18-22th, 2017 on the [Porquerolles island]((www.porqu
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright for portions of project ACPSS 2017 are held by 
-Copyright (c) 2014 Oleh Zasadnyy, Vitaliy Zasadnyy
+Copyright for portions of project ACPSS 2017 are held by  
+Copyright (c) 2014 Oleh Zasadnyy, Vitaliy Zasadnyy  
 as part of project Zeppelin.
 
-All other copyright for project ACPSS 2017 are held by
-Copyright (c) 2017 Arnaud Malapert, Université Nice Sophia Antipolis.
+All other copyright for project ACPSS 2017 are held by  
+Copyright (c) 2017 Arnaud Malapert, Université Nice Sophia Antipolis.  
 All rights reserved.
 
 #### Website based on the Project Zeppelin
