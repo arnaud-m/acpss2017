@@ -56,13 +56,13 @@
     	startTime: "08:30",
     	endTime: "18:30",
         title: "Wed. 20",
-        sessionIds: [002, 001, 003, 004, 404]
+        sessionIds: [002, 001, 003, 005, 404]
     }
     - {
     	startTime: "08:30",
     	endTime: "18:30",
         title: "Th. 21",
-        sessionIds: [003, 008, 801, 404, 505]
+        sessionIds: [003, 004, 801, 404, 505]
     }
     - {
     	startTime: "08:30",

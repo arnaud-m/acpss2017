@@ -51,8 +51,8 @@
   surname: "Le Pape"
   company: "Schneider Electric"
   title: "VP Optimization and Analytics"
-  bio: ""
-  thumbnailUrl: profile.png
+  bio: "Claude Le Pape is in Schneider Electric in charge of coordinating the evaluation of new technologies, the recognition of research and development experts, and the management of research and development projects and partnerships in the area of optimization and analytics. He received a PhD in Computer Science from University Paris XI and a Management Degree from \"College des Ingénieurs\" in 1988. From 1989 to 2007, he was successively postdoctoral student at Stanford University, consultant and software developer at ILOG S.A., senior researcher at Bouygues S.A., and R&D team leader at Bouygues Telecom and ILOG S.A. He participated to several European research projects and to the development of many optimization software tools and industrial applications in various domains, including mixture design, inventory management, long-term personnel planning, construction site scheduling, and manufacturing scheduling."
+  thumbnailUrl: people-9.jpg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://fr.linkedin.com/in/claude-le-pape-40095aa"}
@@ -118,7 +118,7 @@
   rockstar: true
   social: 
     - {name: "site", link: "http://fhermeni.github.io"}
-    - {name: "twitter", link: "https://twitter.com/pschaus"}
+    - {name: "twitter", link: "https://twitter.com/fhermeni"}
     - {name: "github", link: "https://github.com/fhermeni/"}
   ribbon: 
     - {abbr: "BtrPlace", title: "Open-Source flexible virtual machine manager", url: "http://www.btrplace.org/"}
