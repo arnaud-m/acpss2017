@@ -60,7 +60,7 @@
   subtype: presentation
   speakers: [6]
   language: en
-  complexity: "?" 
+  complexity: "Medium" 
   presentation: "http://hanalog.polymtl.ca/wp-content/uploads/2016/04/The-role-of-analytics-in-improving-the-efficiency-of-cancer-treatment-facilities.pdf"
 -
   id: 004
@@ -103,7 +103,7 @@
 -
   id: 008
   title: "Placing virtual machines in a cloud under constraints"
-  description: ""
+  description: "<p>Private and public cloud data centers are platforms of choice to host a large scope of applications. Coupled with the use of Virtual Machines (VMs) to wrap the applications, they exhibit small operation costs thanks to workload consolidation. The VM scheduler is the cornerstone of a performant and profitable virtualized infrastructure. The provider bases his offering and the clients base their requirements on its features. Developing a VM scheduler is however a challenging task. Above all, the developer must overcome the theoretical foundations of the problem and their consequences over the problem scalability. He must also provide an architecture that is flexible enough to support the evolving requirements of the users. The quality of a scheduler might then always be the consequence of a good match between its reasoning capabilities, the infrastructure particularities and the workload profile. It might then be vain to look for the perfect pre-packaged VM scheduler and start to package its own.</p><p>In this talk, I will discuss about the open source VM scheduler BtrPlace. BtrPlace allows third party developers to enhance its reasoning capabilities and make it support new, possibly unique concerns. The flexibility and the reasoning capabilities of BtrPlace are granted by the extensive use of Constraint Programming and the Choco solver. During the talk, I will present the VM placement problem, its model and its implementation. I will also review the different design choices we made for the last ten years of development and their consequences in terms of capabilities and performance. BtrPlace is developed by the University of Nice Sophia Antipolis since 2011. It is a complete rewrite of Entropy, the project initiated in 2006 at the Mines de Nantes. Despite being initially a research prototype, BtrPlace is used in production, because of its flexibility. Nutanix, a provider of entreprise clusters uses it in thousands of private clouds worldwide to mitigate local load spikes.</p>"
   subtype: presentation
   speakers: [13]
   language: en
