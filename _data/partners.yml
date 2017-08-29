@@ -12,3 +12,5 @@
   elements: 
     - {name: "AFPC", description: "AFPC", link: "http://afpc.greyc.fr/", imageUrl: "afpc.jpg", width: "120px"}
     - {name: "ROADEF", description: "ROADEF", link: "http://www.roadef.org/", imageUrl: "roadef.png", width: "120px"}
+    - {name: "LAAS", description: "LAAS-CNRS", link: "https://www.laas.fr/public/", imageUrl: "laas.jpg", width: "120px"}
+    - {name: "IMT-Atlantique", description: "IMT-Atlantique", link: "https://www.imt-atlantique.fr/", imageUrl: "imt_atlantique.jpg", width: "150px"}    
