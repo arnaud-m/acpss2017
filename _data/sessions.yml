@@ -36,12 +36,12 @@
   description: "Return to the station/aiport."
 -
   id: 001
-  title: "Industrial applications of CP and OR"
-  description: ""
+  title: "Consistency in search algorithms: consistency of the solution according to the computing power used"
+  description: "Many users are disappointed when two runs of the same solver sometimes do not return the same solution. This notion is often called the determinism of a solver or of an algorithm. But, many users are quite disappointed by the non consistency of a solution returned by a software according to the computing effort used by the software to find the solution. Many users are disappointed when a solution returned by software for a given time limit is not as good as a solution returned by the same software with a bigger time limit, Many users are disappointed when a parallel algorithm that uses 4 cores sometimes solves a problem faster than the same algorithm using 8 cores. In many cases, users expect a quality of a solution to evolve in relation with the computing power used to solve this solution. We discuss in this talk an extension of determinism we call consistency of an algorithm. We will show what is possible to do with sequential or parallel search algorithms that are an abstraction of search algorithms used to solve problems like CSP, SAT or MIP."
   subtype: presentation
   speakers: [10]
   language: en
-  complexity: "?"
+  complexity: "Medium"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002

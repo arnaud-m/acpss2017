@@ -66,14 +66,13 @@
   surname: "Le Cun"
   company: "Google Inc."
   title: "Software Engineer"
-  bio: ""
+  bio: "Assistant professor for almost 20 years in Nanterre University (France), and associated researcher in the PRiSM laboratory of Versailles university, Bertrand Le Cun had moved to Google France in late 2014.</br> His research deals with the design of algorithms to solve combinatorial optimization problems, but also with the design of generic software for a sequential and parallel environments. He has worked for problem like 2D-guillotin Cutting Stock Problem, Quadratic assignment problem (2D and 3D), Vehicle routing problem, Crew scheduling, Energy optimization, Fragmentable bin-packing.</br>The methods are A*, Dynamic programming, branch and bound, branch and price branch and price and cut for both sequential or parallel environment (Grid/Cloud)."
   thumbnailUrl: profile.png
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/117642394038032536905"}
     - {name: "linkedin", link: "https://fr.linkedin.com/in/bertrand-le-cun-6001a411"}
-#     - {name: "twitter", link: "https://twitter.com/pschaus"}
-#     - {name: "site", link: "https://www.info.ucl.ac.be/~pschaus/"}
+    - {name: "site", link: "http:://www.prism.uvsq.fr/~blec/"}
 #   ribbon: 
 #     - {abbr: "Oscar", title: "Operational Research In Scala", url: "https://bitbucket.org/oscarlib/oscar/"}
 - 
