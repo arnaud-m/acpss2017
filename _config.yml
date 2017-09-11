@@ -235,7 +235,7 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
-
+   - {link: "http://github.com/arnaud-m/acpss2017", text: "Github repository"}
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: false
