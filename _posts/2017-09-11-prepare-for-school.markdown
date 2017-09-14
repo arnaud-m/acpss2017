@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prepare for schools!"
-date:   2017-09-11 01:00:00
+date:   2017-09-11 08:00:00
 isStaticPost: false
 ---
 
@@ -19,6 +19,8 @@ isStaticPost: false
     * Jordan Demeulenaere, Renaud Hartert, Christophe Lecoutre, Guillaume Perez, Laurent Perron, Jean-Charles Régin et al. (2016). [Compact-Table: Efficiently Filtering Table Constraints with Reversible Sparse Bit-Sets](https://www.info.ucl.ac.be/~pschaus/assets/publi/cp2016-compacttable.pdf), Proceedings of CP 2016.
     
 #### Required softwares ####
+
+The following softwares are required for the 'Do it Yourself' sessions where you will learn how to build a [Mini-CP](https://www.info.ucl.ac.be/~pschaus/minicp/) solver.
 
 
 * Git

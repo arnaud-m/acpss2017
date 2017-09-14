@@ -50,7 +50,7 @@
     	startTime: "08:30",
     	endTime: "18:30",
         title: "Tu. 19",
-    	sessionIds: [006, 007, 002, 005, 504]
+    	sessionIds: [006, 007, 002, 005, 404]
     }    
     - {
     	startTime: "08:30",

@@ -69,7 +69,7 @@ aboutBlock:
  - {title: "Topic", image: "OR.jpg", text: "Hybridization of Constraint Programming and Operational Research: from practical opportunities to concrete implementation of solutions." }
 # http://sdymchenko.com/blog/2015/03/13/electrifying-eclipse/ 
  - {title: "For which?", image: "electrifying.gif", text: "PhD students, masters students and industrial practitioners, who want to get a good understanding of capabilities and current research directions in the area of Constraint Programming, particularly at the frontier with Operational Research, are all welcome." }
- - {title: "Do it yourself!", image: "minicp.png", text: "minicp competition! The participants will be challenged on a given problem both in term of modeling and implementation of a solution in their own standalone tool." }
+ - {title: "Do it yourself!", image: "mini-cp.png", text: "minicp competition! The participants will be challenged on a given problem both in term of modeling and implementation of a solution in their own standalone tool." }
  - {title: "1 Place to Go", image: "porquerolles.jpg", text: "Porquerolles is a small island in the Hyères islands, Var, France. It is one of the <a href=\"https://www.nytimes.com/interactive/2017/travel/places-to-visit.html\">52 Places to Go in 2017</a> of the NY Times. The south coast is lined with cliffs, and on the north coast are the port and the beaches. Much of the island is now part of the Port-Cros national park."}
 
 # Statistic Block
@@ -292,11 +292,11 @@ hackathonTitle: "Do it yourself!"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Coming soon ..."
+aboutHackathonTitle: "<a href=\"https://www.info.ucl.ac.be/~pschaus/minicp/\">Mini-CP</a>: A Minimalist Open-Source Solver"
 hackathonRows:
  - {title: "A great challenge", image: "hackathon-0.png", details: "What better than building its own solver to understand the strengths and weaknesses of our paradigm? This is the challenge we offer this year during the summer school!"}
  - {title: "Learn the insights", image: "hackathon-1.png", details: "From years, observing our students shows us that constraint Programming cannot be reduced to a modelling task. That is to say that an expert of CP cannot be only a good modeler, but he has to understand the underlying mechanics of the CP tools in order to anticipate the difficulties regarding a given problem."}
- - {title: "Improve your software engineering skills", image: "hackathon-1.png", details: "During this week, you'll discover how to build your own CP tool. You'll identify which are the bottlenecks and pitfalls to avoid within the CP tool development, both in terms of algorithmic and software engineering."}
+ - {title: "Improve your software engineering skills", image: "hackathon-0.png", details: "During this week, you'll discover how to build your own CP tool. You'll identify which are the bottlenecks and pitfalls to avoid within the CP tool development, both in terms of algorithmic and software engineering."}
 
 
 # Hackathon Judges Block
