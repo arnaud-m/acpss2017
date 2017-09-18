@@ -55,13 +55,13 @@
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Optimizing the design and delivery of healthcare"
-  description: ""
+  title: "Introduction to Column Generation and hybrid methods for Homecare Routing"
+  description: "The abstract is coming very soon ;)</br>Download the <a href=\"https://www.dropbox.com/s/pvpru7h5ewexkec/GenColEx.xlsx?dl=0\">Excel CG Exercise sheet</a>"
   subtype: presentation
   speakers: [6]
   language: en
   complexity: "Medium" 
-  presentation: "http://hanalog.polymtl.ca/wp-content/uploads/2016/04/The-role-of-analytics-in-improving-the-efficiency-of-cancer-treatment-facilities.pdf"
+  presentation: "https://www.dropbox.com/s/a91q7sfico738lz/ColumnGeneration-Homecare-MasterClass.pptx?dl=0"
 -
   id: 004
   title: "Characterizing the flexibility of an energy consumer and optimizing its usage: a multifaceted problem"
