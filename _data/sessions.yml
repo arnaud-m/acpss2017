@@ -56,7 +56,7 @@
 -
   id: 003
   title: "Introduction to Column Generation and hybrid methods for Homecare Routing"
-  description: "The abstract is coming very soon ;)</br>Download the <a href=\"https://www.dropbox.com/s/pvpru7h5ewexkec/GenColEx.xlsx?dl=0\">Excel CG Exercise sheet</a>"
+  description: "In this session we will present the key concept of Column Generation and illustrate how it can be applied to Vehicle Routing. We will also discuss difference practical issues of Column Generation and pricing strategy such as Dynamic Programming and Constraint Programming. The second part of the class will address a practical routing problem which arises in the field of Homecare, where we will combine column generation and LNS.</br>Download the <a href=\"https://www.dropbox.com/s/pvpru7h5ewexkec/GenColEx.xlsx?dl=0\">CG exercise sheet</a>"
   subtype: presentation
   speakers: [6]
   language: en
