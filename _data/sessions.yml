@@ -42,6 +42,7 @@
   speakers: [10]
   language: en
   complexity: "Medium"
+  presentation: "/summer2017/slidedecks/Consistency-in-Solvers.pdf"  
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
@@ -50,18 +51,18 @@
   subtype: presentation
   speakers: [8]
   language: en
-  complexity: "?" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  complexity: "Hard" 
+  presentation: "/summer2017/slidedecks/Resource-Constraints-for-Scheduling.pdf"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
   title: "Introduction to Column Generation and hybrid methods for Homecare Routing"
-  description: "In this session we will present the key concept of Column Generation and illustrate how it can be applied to Vehicle Routing. We will also discuss difference practical issues of Column Generation and pricing strategy such as Dynamic Programming and Constraint Programming. The second part of the class will address a practical routing problem which arises in the field of Homecare, where we will combine column generation and LNS.</br>Download the <a href=\"https://www.dropbox.com/s/pvpru7h5ewexkec/GenColEx.xlsx?dl=0\">CG exercise sheet</a>"
+  description: "In this session we will present the key concept of Column Generation and illustrate how it can be applied to Vehicle Routing. We will also discuss difference practical issues of Column Generation and pricing strategy such as Dynamic Programming and Constraint Programming. The second part of the class will address a practical routing problem which arises in the field of Homecare, where we will combine column generation and LNS.</br>Download the <a href=\"/summer2017/slidedecks/GenColEx.xlsx\">CG exercise sheet</a>."
   subtype: presentation
   speakers: [6]
   language: en
   complexity: "Medium" 
-  presentation: "https://www.dropbox.com/s/a91q7sfico738lz/ColumnGeneration-Homecare-MasterClass.pptx?dl=0"
+  presentation: "/summer2017/slidedecks/Introduction-to-Column-Generation-and-hybrid-methods-for-Homecare-Routing.pdf"
 -
   id: 004
   title: "Characterizing the flexibility of an energy consumer and optimizing its usage: a multifaceted problem"
@@ -69,18 +70,18 @@
   subtype: presentation
   speakers: [9]
   language: en
-  complexity: "?"
-#  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  complexity: "Medium"
+  presentation: "/summer2017/slidedecks/Characterization-of-the-Flexibility-of-an-Energy-Consumer-and-Optimization-of-its-Energy-Usage.pdf"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
   title: "Do it yourself!"
-  description: "minicp competition! The participants will be challenged on a given problem both in term of modeling and implementation of a solution in their own standalone tool."
+  description: "<a href=\"https://www.info.ucl.ac.be/~pschaus/minicp/\">Mini-CP</a> challenge! The participants will be challenged on a given problem both in term of modeling and implementation of a solution in their own standalone tool."
   subtype: workshop
   speakers: [7]
   language: en
-  complexity: "?"
-#  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  complexity: "Beginner"
+  presentation: "/summer2017/slidedecks/MiniCP.pdf"
   video: "https://www.youtube.com/embed/opXBR00z_QM"
 -
   id: 006
@@ -90,7 +91,7 @@
   speakers: [11]
   language: en
   complexity: "Beginner" 
-  presentation: "http://user.it.uu.se/~pierref/courses/COCP/slides/COCP-poster.pdf"
+  presentation: "/summer2017/slidedecks/NutCPshell.pdf"
 -
   id: 007
   title: "On the Flinders Hamiltonian Cycle Problem Challenge"
@@ -98,8 +99,8 @@
   subtype: presentation
   speakers: [12]
   language: en
-  complexity: "?" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  complexity: "Beginner" 
+  presentation: "/summer2017/slidedecks/Flinders-Hamiltonian-Cycle-Problem-Challenge.pdf"
 -
   id: 008
   title: "Placing virtual machines in a cloud under constraints"
@@ -107,8 +108,8 @@
   subtype: presentation
   speakers: [13]
   language: en
-  complexity: "" 
-#  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  complexity: "Medium" 
+  presentation: "/summer2017/slidedecks/Looking-for-the-perfect-VM-scheduler.pdf"
 #  video: "http://webcast.in2p3.fr/videos-a_flexible_virtual_machine_placement_algorithm_for_iaas_clouds_to_fit_evolving_user_requirements"
 -
   id: 801

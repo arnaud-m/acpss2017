@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prepare for schools!"
+title:  "Prepare for school!"
 date:   2017-09-11 08:00:00
 isStaticPost: false
 ---
