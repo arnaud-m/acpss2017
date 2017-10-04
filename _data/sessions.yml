@@ -109,7 +109,7 @@
   speakers: [13]
   language: en
   complexity: "Medium" 
-  presentation: "/summer2017/slidedecks/Looking-for-the-perfect-VM-scheduler.pdf"
+  presentation: "/summer2017/slidedecks/Placing-Virtual-Machines-in-a-Cloud-under-Constraints.pdf"
 #  video: "http://webcast.in2p3.fr/videos-a_flexible_virtual_machine_placement_algorithm_for_iaas_clouds_to_fit_evolving_user_requirements"
 -
   id: 801
